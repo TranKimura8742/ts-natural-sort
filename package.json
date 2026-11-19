@@ -1,0 +1,17 @@
+{
+  "name": "ts-natural-sort",
+  "version": "0.1.0",
+  "description": "Compares strings with embedded numbers so that file2 sorts before file10.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
